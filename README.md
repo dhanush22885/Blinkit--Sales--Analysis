@@ -50,8 +50,9 @@ This dashboard helps business stakeholders — including executives like the CEO
 - Medium outlets strike the balance between **item variety and operational scale**
 - 2018 represents a **turning point** in sales growth — possibly tied to expansion or promotions
 
+Dashboard of Analysis:
 
-
+![img](https://github.com/dhanush22885/Blinkit--Sales--Analysis/blob/5bbf2a8bb9b9d62684c68bf5b18ba732c9f0085b/Blinkit.jpg)
 
 
 
